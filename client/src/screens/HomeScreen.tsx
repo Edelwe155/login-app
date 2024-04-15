@@ -11,8 +11,6 @@ export const HomeScreen = () => {
 
   const { isLogoutLoading } = useSelector((state: any) => state.auth);
 
-  console.log("isLogoutLoading: ", isLogoutLoading);
-
   const { user } = useSelector((state: any) => state.auth);
 
   const handleLogout = () => {
