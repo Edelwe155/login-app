@@ -1,0 +1,94 @@
+[
+  {
+    "email": "user1@example.com",
+    "password": "password1"
+  },
+  {
+    "email": "user2@example.com",
+    "password": "password2"
+  },
+  {
+    "email": "user3@example.com",
+    "password": "password3"
+  },
+  {
+    "email": "user4@example.com",
+    "password": "password4"
+  },
+  {
+    "email": "user5@example.com",
+    "password": "password5"
+  },
+  {
+    "email": "user6@example.com",
+    "password": "password6"
+  },
+  {
+    "email": "user7@example.com",
+    "password": "password7"
+  },
+  {
+    "email": "user8@example.com",
+    "password": "password8"
+  },
+  {
+    "email": "user9@example.com",
+    "password": "password9"
+  },
+  {
+    "email": "user10@example.com",
+    "password": "password10"
+  },
+  {
+    "email": "newuser@gmail.com",
+    "password": "131313131313"
+  },
+  {
+    "email": "newuser1@gmail.com",
+    "password": "1313131313"
+  },
+  {
+    "email": "ewuser1@gmail.com",
+    "password": "131313131314"
+  },
+  {
+    "email": "baduser@ba1.com",
+    "password": "11121314"
+  },
+  {
+    "email": "assdasdd@asd.asd",
+    "password": "111213"
+  },
+  {
+    "email": "asssdasdd@asd.asd",
+    "password": "111213"
+  },
+  {
+    "email": "asdasdasd@asd.as",
+    "password": "123456"
+  },
+  {
+    "email": "zxcv@zx.cv",
+    "password": "123456"
+  },
+  {
+    "email": "usus@us.us",
+    "password": "131313"
+  },
+  {
+    "email": "good@email.com",
+    "password": "123456"
+  },
+  {
+    "email": "ascefsrg@ba1.com",
+    "password": "123456"
+  },
+  {
+    "email": "gogo@ga.ga",
+    "password": "12345gago"
+  },
+  {
+    "email": "zxc@zxc.vb",
+    "password": "123456"
+  }
+]
